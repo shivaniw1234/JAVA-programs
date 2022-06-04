@@ -29,8 +29,8 @@ public class Two_dArray {
 			System.out.println();
 		}
 	}
-
-}
+       system.out.println("Krishna Dope");
+ }
 
 /* Scanner sc = new Scanner(System.in)
  * int [][]twoarr=new int[3][];
