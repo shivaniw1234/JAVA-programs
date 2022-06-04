@@ -29,7 +29,7 @@ public class Two_dArray {
 			System.out.println();
 		}
 	}
-       system.out.println("Krishna Dope");
+       system.out.println("shivani w");
  }
 
 /* Scanner sc = new Scanner(System.in)
